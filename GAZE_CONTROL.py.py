@@ -114,7 +114,7 @@ def get_gaze_ratio(eye_points,facial_landmarks):
                                         cap.stop()
 
 
-# In[ ]:
+
 
 
 
