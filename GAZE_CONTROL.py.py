@@ -117,7 +117,7 @@ while True:
                                     cv2.imshow("New frame", new_frame)
 
                                     key = cv2.waitKey(1)
-                                    if key == 27:
+                                    if key == ord("e"):
                                         break
 
                                         cap.release()
